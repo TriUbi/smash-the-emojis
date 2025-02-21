@@ -2,6 +2,9 @@
 
 **Smash the Emojis** is a fun and interactive game where the player must click on as many moving emojis as possible before time runs out! The game includes sound effects and a confetti animation to celebrate the final score.
 
+## 🚀 Live Demo  
+🔗 **Play Now:** [Smash the Emojis](https://triubi.github.io/smash-the-emojis/)  
+
 ---
 
 ## 🚀 Features
