@@ -1,3 +1,12 @@
+html,
+body {
+  overflow: hidden;
+  touch-action: none;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
 body {
   text-align: center;
   font-family: Arial, sans-serif;
